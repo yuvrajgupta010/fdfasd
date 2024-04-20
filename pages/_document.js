@@ -9,7 +9,7 @@ export default function Document() {
       <link
         href="https://nextjs.spruko.com/sash/preview/assets/plugins/bootstrap/css/bootstrap.min.css"
         rel="stylesheet"
-        id="bootstrapLink"
+        id="bootstrapLinkf"
       />
       <meta
         name="description"
